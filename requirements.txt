@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+git+https://github.com/theriftlab/immanuel-python.git
